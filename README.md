@@ -34,7 +34,7 @@ inside create a sub folder called routes
 
 then create a file example products.js
 
-inswrt all variable code to implemt GET PATCH ELETE etc
+inswrt all variable code to implemt GET PATCH DELETE etc
 
 go to terminal and iniate node
 
